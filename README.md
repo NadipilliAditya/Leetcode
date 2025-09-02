@@ -23,6 +23,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NadipilliAditya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/NadipilliAditya/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/NadipilliAditya/Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -57,4 +58,5 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/NadipilliAditya/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/NadipilliAditya/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
