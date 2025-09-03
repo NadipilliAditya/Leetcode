@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NadipilliAditya/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NadipilliAditya/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/NadipilliAditya/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/NadipilliAditya/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NadipilliAditya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/NadipilliAditya/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/NadipilliAditya/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NadipilliAditya/Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
